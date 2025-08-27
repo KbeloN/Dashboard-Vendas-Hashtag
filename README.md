@@ -14,6 +14,6 @@ Com esse projeto eu aprendi a:
 
 #
 
-Dashboard online:[]
+Dashboard online:[https://dashboard-vendas-hashtag-qw8sbyrxurvek2sahe5hry.streamlit.app/]
 
 Mini-curso de análise de dados da Hashtag: [https://www.youtube.com/watch?v=BW9Va5syNC0]
